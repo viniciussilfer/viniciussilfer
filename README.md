@@ -1,6 +1,6 @@
 ### Eai, sou o Well e faço uns programas ai!
 
--Atualmente estudando Desenvolvimento Web e dando enfase para React.
+-Atualmente estudando Desenvolvimento Web.
 
 
 <div align="center">
